@@ -60,3 +60,19 @@ form input[type=submit] :hover {
 table{
   text-align: left;
 }
+
+.color-red {
+  background-color:hotpink;
+}
+.color-orange{
+  background-color: orange;
+}
+.color-orangered{
+  background-color: orangered;
+}
+.color-coral{
+  background-color: coral;
+}
+.color-green{
+  background-color: greenyellow;
+}
